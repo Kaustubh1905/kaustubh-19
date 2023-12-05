@@ -22,4 +22,6 @@ ch=int(input("enter the number between [1,2,3,4]:))
              print("division between two numbers is:",div)
              else
              print("entered something wrong")
-            
+            else:(_)
+
+
